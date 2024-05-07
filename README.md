@@ -29,7 +29,7 @@ y=[0,1,4,9,16,25]
 plt.plot(x,y,color='plum')
 plt.show()
 ```
-![image](https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721)
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721" width="400" height="400">
 2.MULTI-LINE CHART
 ```
 x1=[1,2,3]
@@ -44,7 +44,7 @@ plt.title('Multi-Line Chart')
 plt.legend()
 plt.show()
 ```
-![image](https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea)
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea" width="400" height="400">
 
 3.AREA CHART
 ```
@@ -179,7 +179,7 @@ x_vals = np.linspace(min(data), max(data), 1000)
 plt.plot(x_vals, kde(x_vals), 'r')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/afb3d4c5-53fd-4ac1-a75c-d124d818b421" width="500" height="500">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/afb3d4c5-53fd-4ac1-a75c-d124d818b421" width="400" height="400">
 
 5.PIE CHART
 ```
@@ -191,7 +191,7 @@ autopct='%1.1f%%')
 plt.legend()
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/28f1a6b7-02fc-4152-89bb-050084cc4058" width="400" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/28f1a6b7-02fc-4152-89bb-050084cc4058" width="300" height="300">
 
 # Result:
  The Data Visualization using matplot python library is implemented successfully.
