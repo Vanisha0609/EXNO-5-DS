@@ -60,7 +60,7 @@ plt.plot(x,y2,color='teal')
 plt.legend(['y1','y2'])
 plt.show()
 ```
-![image](https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/40cc251e-173c-48c0-a578-baff9ffca170)
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/40cc251e-173c-48c0-a578-baff9ffca170" width="500" height="400">
 
 4. STACKED AREA CHART
 ```
