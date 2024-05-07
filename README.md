@@ -29,7 +29,7 @@ y=[0,1,4,9,16,25]
 plt.plot(x,y,color='plum')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721" width="500" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721" width="400" height="350">
 
 2.MULTI-LINE CHART
 ```
@@ -45,7 +45,7 @@ plt.title('Multi-Line Chart')
 plt.legend()
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea" width="500" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea" width="500" height="350">
 
 3.AREA CHART
 ```
@@ -60,7 +60,7 @@ plt.plot(x,y2,color='teal')
 plt.legend(['y1','y2'])
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/40cc251e-173c-48c0-a578-baff9ffca170" width="500" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/40cc251e-173c-48c0-a578-baff9ffca170" width="450" height="350">
 
 4. STACKED AREA CHART
 ```
@@ -71,7 +71,7 @@ plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/f00d46fd-6a5b-4844-9974-399e136e2fd2" width="550" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/f00d46fd-6a5b-4844-9974-399e136e2fd2" width="500" height="350">
 
 5.SPLINE CHART
 ```
@@ -86,7 +86,7 @@ plt.plot(x1,y1,'-',label="spline",color='plum')
 plt.legend()
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/f5193e1a-4333-4ed6-919b-53e0caf948b7" width="550" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/f5193e1a-4333-4ed6-919b-53e0caf948b7" width="500" height="350">
 
 TO VISUALIZE RELATIONSHIPS
 
@@ -97,7 +97,7 @@ names=["A","B","C","D","E"]
 plt.bar(names,val,color="mediumaquamarine")
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/c82ec0a1-2c9b-4b86-a9fa-ec073a8e091c" width="550" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/c82ec0a1-2c9b-4b86-a9fa-ec073a8e091c" width="500" height="350">
 
 2.SCATTER PLOT
 
@@ -107,7 +107,7 @@ y=[0,1,4,9,16,25]
 plt.scatter(x,y,s=30,color="cadetblue")
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/75dc2825-aa4e-4d18-9e50-6580526d0a45" width="550" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/75dc2825-aa4e-4d18-9e50-6580526d0a45" width="500" height="350">
 
 3.BUBBLE CHART
 
@@ -121,7 +121,7 @@ plt.ylabel('y_values')
 plt.title('Bubble Chart')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/140c55fc-0828-4558-a1a1-22daf4dd3647" width="550" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/140c55fc-0828-4558-a1a1-22daf4dd3647" width="500" height="350">
 
 TO CAPTURE DISTRIBUTIONS
 1. HISTOGRAM
