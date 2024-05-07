@@ -19,7 +19,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
  TO CAPTURE A TREND
- 1.LINE CHART
+  1.LINE CHART
  ```
 import matplotlib.pyplot as plt
 import numpy as np
