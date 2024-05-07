@@ -29,7 +29,8 @@ y=[0,1,4,9,16,25]
 plt.plot(x,y,color='plum')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721" width="400" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/30512fa0-5a47-4be7-b6ef-b7444b2ab721" width="500" height="400">
+
 2.MULTI-LINE CHART
 ```
 x1=[1,2,3]
@@ -44,7 +45,7 @@ plt.title('Multi-Line Chart')
 plt.legend()
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea" width="400" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/d76efe55-7d99-4a89-9dcc-9ff09abfc4ea" width="500" height="400">
 
 3.AREA CHART
 ```
