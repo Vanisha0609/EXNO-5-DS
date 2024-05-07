@@ -191,7 +191,7 @@ autopct='%1.1f%%')
 plt.legend()
 plt.show()
 ```
-![image](https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/28f1a6b7-02fc-4152-89bb-050084cc4058)
+"https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/28f1a6b7-02fc-4152-89bb-050084cc4058" width="100" height="100"
 
 # Result:
  The Data Visualization using matplot python library is implemented successfully.
