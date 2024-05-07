@@ -164,7 +164,7 @@ plt.title('Violin Plot')
 plt.xticks([1, 2, 3], ['Group 1', 'Group 2', 'Group 3'])
 plt.show()
 ```
-![image](https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/ac0a7888-4cdf-4a73-beb5-9198a03fb831)
+<img src="https://github.com/Vanisha0609/EXNO-5-DS/assets/119104009/ac0a7888-4cdf-4a73-beb5-9198a03fb831" width="400" height="300">
 
 4.DENSITY CHART
 
